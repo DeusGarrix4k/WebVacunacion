@@ -7,3 +7,5 @@ Lo que se realizo es:
 1.- Planeación de campaña de vacunación.
 2.- Maquetación del sitio con HTML.
 3.- Estilos con CSS.
+
+Es un proyecto, no es el definitivo... ʕ•́ᴥ•̀ʔっ
